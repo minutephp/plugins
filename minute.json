@@ -1,0 +1,142 @@
+{
+    "name": "MinutePHP plugins",
+    "homepage": "http:\/\/plugins.minutephp.com",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/admin"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/affiliate"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/auth"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/autoresponder"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/aws"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/bonus"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/bug"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/cli"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/cms"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/cron"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/debug"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/first-run"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/framework"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/mail"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/member"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/minify"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/minutephp"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/payment"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/product"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/project"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/site"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/support"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/todo"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/translate"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/user"
+        }
+    ],
+    "require": {
+        "minutephp\/admin": "*",
+        "minutephp\/affiliate": "*",
+        "minutephp\/auth": "*",
+        "minutephp\/autoresponder": "*",
+        "minutephp\/aws": "*",
+        "minutephp\/bonus": "*",
+        "minutephp\/bug": "*",
+        "minutephp\/cli": "*",
+        "minutephp\/cms": "*",
+        "minutephp\/cron": "*",
+        "minutephp\/debug": "*",
+        "minutephp\/first-run": "*",
+        "minutephp\/framework": "*",
+        "minutephp\/mail": "*",
+        "minutephp\/member": "*",
+        "minutephp\/minify": "*",
+        "minutephp\/minutephp": "*",
+        "minutephp\/payment": "*",
+        "minutephp\/product": "*",
+        "minutephp\/project": "*",
+        "minutephp\/site": "*",
+        "minutephp\/support": "*",
+        "minutephp\/todo": "*",
+        "minutephp\/translate": "*",
+        "minutephp\/user": "*"
+    },
+    "require-all": false,
+    "require-dependencies": false,
+    "require-dev-dependencies": false,
+    "minimum-stability": "stable",
+    "archive": {
+        "directory": "dist",
+        "format": "zip",
+        "skip-dev": false
+    }
+}
