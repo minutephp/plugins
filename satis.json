@@ -133,7 +133,7 @@
     "require-all": false,
     "require-dependencies": false,
     "require-dev-dependencies": false,
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "archive": {
         "directory": "dist",
         "format": "zip",
