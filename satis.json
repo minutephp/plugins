@@ -131,7 +131,7 @@
         "minutephp\/user": "*"
     },
     "require-all": false,
-    "require-dependencies": false,
+    "require-dependencies": true,
     "require-dev-dependencies": false,
     "minimum-stability": "stable",
     "archive": {
