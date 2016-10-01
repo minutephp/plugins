@@ -101,6 +101,10 @@
         {
             "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/user"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/stockutils/image-search"
         }
     ],
     "require": {
@@ -128,7 +132,8 @@
         "minutephp\/support": "*",
         "minutephp\/todo": "*",
         "minutephp\/translate": "*",
-        "minutephp\/user": "*"
+        "minutephp\/user": "*",
+        "stockutils/image-search":"*"
     },
     "require-all": false,
     "require-dependencies": false,
