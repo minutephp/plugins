@@ -101,6 +101,10 @@
         {
             "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/user"
+        },
+        {
+            "type": "composer",
+            "url": "https://packagist.org"
         }
     ],
     "require": {
