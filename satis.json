@@ -1,6 +1,6 @@
 {
     "name": "MinutePHP plugins",
-    "homepage": "http:\/\/plugins.minutephp.com",
+    "homepage": "https:\/\/plugins.minutephp.com",
     "repositories": [
         {
             "type": "vcs",
@@ -137,7 +137,7 @@
     "require-all": false,
     "require-dependencies": true,
     "require-dev-dependencies": false,
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "archive": {
         "directory": "dist",
         "format": "zip",
