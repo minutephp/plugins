@@ -72,6 +72,10 @@
         },
         {
             "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/offer"
+        },
+        {
+            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/payment"
         },
         {
@@ -125,6 +129,7 @@
         "minutephp\/member": "*",
         "minutephp\/minify": "*",
         "minutephp\/minutephp": "*",
+        "minutephp\/offer": "*",
         "minutephp\/payment": "*",
         "minutephp\/product": "*",
         "minutephp\/project": "*",
