@@ -116,6 +116,7 @@
         }
     ],
     "require": {
+        "stockutils\/image-search": "*",
         "minutephp\/admin": "*",
         "minutephp\/affiliate": "*",
         "minutephp\/auth": "*",
@@ -132,18 +133,17 @@
         "minutephp\/mail": "*",
         "minutephp\/member": "*",
         "minutephp\/minify": "*",
-        "minutephp\/minutephp": "*",
         "minutephp\/offer": "*",
-        "minutephp\/payment": "*",
+        "minutephp\/paypal": "*",
         "minutephp\/product": "*",
         "minutephp\/project": "*",
         "minutephp\/site": "*",
         "minutephp\/support": "*",
         "minutephp\/todo": "*",
         "minutephp\/translate": "*",
+        "minutephp\/twilio": "*",
         "minutephp\/user": "*",
-        "minutephp\/wallet": "*",
-        "stockutils\/image-search": "*"
+        "minutephp\/wallet": "*"
     },
     "require-all": false,
     "require-dependencies": false,
