@@ -4,6 +4,10 @@
     "repositories": [
         {
             "type": "vcs",
+            "url": "https:\/\/github.com\/stockutils\/image-search"
+        },
+        {
+            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/admin"
         },
         {
@@ -68,15 +72,11 @@
         },
         {
             "type": "vcs",
-            "url": "https:\/\/github.com\/minutephp\/minutephp"
-        },
-        {
-            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/offer"
         },
         {
             "type": "vcs",
-            "url": "https:\/\/github.com\/minutephp\/payment"
+            "url": "https:\/\/github.com\/minutephp\/paypal"
         },
         {
             "type": "vcs",
@@ -104,15 +104,15 @@
         },
         {
             "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/twilio"
+        },
+        {
+            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/user"
         },
         {
             "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/wallet"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/stockutils/image-search"
         }
     ],
     "require": {
@@ -143,7 +143,7 @@
         "minutephp\/translate": "*",
         "minutephp\/user": "*",
         "minutephp\/wallet": "*",
-        "stockutils/image-search":"*"
+        "stockutils\/image-search": "*"
     },
     "require-all": false,
     "require-dependencies": false,
