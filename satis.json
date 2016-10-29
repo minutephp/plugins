@@ -104,10 +104,6 @@
         },
         {
             "type": "vcs",
-            "url": "https:\/\/github.com\/minutephp\/twilio"
-        },
-        {
-            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/user"
         },
         {
@@ -141,7 +137,6 @@
         "minutephp\/support": "*",
         "minutephp\/todo": "*",
         "minutephp\/translate": "*",
-        "minutephp\/twilio": "*",
         "minutephp\/user": "*",
         "minutephp\/wallet": "*"
     },
