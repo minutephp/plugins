@@ -28,10 +28,6 @@
         },
         {
             "type": "vcs",
-            "url": "https:\/\/github.com\/minutephp\/bonus"
-        },
-        {
-            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/bug"
         },
         {
@@ -100,10 +96,6 @@
         },
         {
             "type": "vcs",
-            "url": "https:\/\/github.com\/minutephp\/translate"
-        },
-        {
-            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/user"
         },
         {
@@ -118,7 +110,6 @@
         "minutephp\/auth": "*",
         "minutephp\/autoresponder": "*",
         "minutephp\/aws": "*",
-        "minutephp\/bonus": "*",
         "minutephp\/bug": "*",
         "minutephp\/cli": "*",
         "minutephp\/cms": "*",
@@ -136,7 +127,6 @@
         "minutephp\/site": "*",
         "minutephp\/support": "*",
         "minutephp\/todo": "*",
-        "minutephp\/translate": "*",
         "minutephp\/user": "*",
         "minutephp\/wallet": "*"
     },
