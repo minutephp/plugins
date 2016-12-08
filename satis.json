@@ -4,7 +4,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https:\/\/github.com\/stockutils\/image-search"
+            "url": "https:\/\/github.com\/stockutils\/text-to-speech"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/stockutils\/audio-recorder"
         },
         {
             "type": "vcs",
