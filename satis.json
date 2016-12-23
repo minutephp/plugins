@@ -68,6 +68,10 @@
         },
         {
             "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/milkshake"
+        },
+        {
+            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/minify"
         },
         {
@@ -123,6 +127,7 @@
         "minutephp\/framework": "*",
         "minutephp\/mail": "*",
         "minutephp\/member": "*",
+        "minutephp\/milkshake": "*",
         "minutephp\/minify": "*",
         "minutephp\/offer": "*",
         "minutephp\/paypal": "*",
