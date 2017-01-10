@@ -4,14 +4,6 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https:\/\/github.com\/stockutils\/text-to-speech"
-        },
-        {
-            "type": "vcs",
-            "url": "https:\/\/github.com\/stockutils\/audio-recorder"
-        },
-        {
-            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/admin"
         },
         {
@@ -109,10 +101,29 @@
         {
             "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/wallet"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/stockutils\/audio-recorder"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/stockutils\/resource"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/stockutils\/server"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/stockutils\/swf2vid"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/stockutils\/text-to-speech"
         }
     ],
     "require": {
-        "stockutils\/image-search": "*",
         "minutephp\/admin": "*",
         "minutephp\/affiliate": "*",
         "minutephp\/auth": "*",
@@ -137,7 +148,12 @@
         "minutephp\/support": "*",
         "minutephp\/todo": "*",
         "minutephp\/user": "*",
-        "minutephp\/wallet": "*"
+        "minutephp\/wallet": "*",
+        "stockutils\/audio-recorder": "*",
+        "stockutils\/resource": "*",
+        "stockutils\/server": "*",
+        "stockutils\/swf2vid": "*",
+        "stockutils\/text-to-speech": "*"
     },
     "require-all": false,
     "require-dependencies": false,
