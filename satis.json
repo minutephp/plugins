@@ -121,6 +121,10 @@
         {
             "type": "vcs",
             "url": "https:\/\/github.com\/stockutils\/text-to-speech"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/stockutils\/uploader"
         }
     ],
     "require": {
@@ -153,7 +157,8 @@
         "stockutils\/resource": "*",
         "stockutils\/server": "*",
         "stockutils\/swf2vid": "*",
-        "stockutils\/text-to-speech": "*"
+        "stockutils\/text-to-speech": "*",
+        "stockutils\/uploader": "*"
     },
     "require-all": false,
     "require-dependencies": false,
