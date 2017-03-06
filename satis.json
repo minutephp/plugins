@@ -100,6 +100,10 @@
         },
         {
             "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/vultr"
+        },
+        {
+            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/wallet"
         },
         {
@@ -152,6 +156,7 @@
         "minutephp\/support": "*",
         "minutephp\/todo": "*",
         "minutephp\/user": "*",
+        "minutephp\/vultr": "*",
         "minutephp\/wallet": "*",
         "stockutils\/audio-recorder": "*",
         "stockutils\/resource": "*",
