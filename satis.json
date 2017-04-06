@@ -52,6 +52,10 @@
         },
         {
             "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/jvzoo"
+        },
+        {
+            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/mail"
         },
         {
@@ -96,6 +100,10 @@
         },
         {
             "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/tsconfig.json"
+        },
+        {
+            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/user"
         },
         {
@@ -105,6 +113,10 @@
         {
             "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/wallet"
+        },
+        {
+            "type": "vcs",
+            "url": "https:\/\/github.com\/minutephp\/warriorplus"
         },
         {
             "type": "vcs",
@@ -144,6 +156,7 @@
         "minutephp\/debug": "*",
         "minutephp\/first-run": "*",
         "minutephp\/framework": "*",
+        "minutephp\/jvzoo": "*",
         "minutephp\/mail": "*",
         "minutephp\/member": "*",
         "minutephp\/milkshake": "*",
@@ -155,9 +168,11 @@
         "minutephp\/site": "*",
         "minutephp\/support": "*",
         "minutephp\/todo": "*",
+        "minutephp\/tsconfig.json": "*",
         "minutephp\/user": "*",
         "minutephp\/vultr": "*",
         "minutephp\/wallet": "*",
+        "minutephp\/warriorplus": "*",
         "stockutils\/audio-recorder": "*",
         "stockutils\/resource": "*",
         "stockutils\/server": "*",
