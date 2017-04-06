@@ -100,10 +100,6 @@
         },
         {
             "type": "vcs",
-            "url": "https:\/\/github.com\/minutephp\/tsconfig.json"
-        },
-        {
-            "type": "vcs",
             "url": "https:\/\/github.com\/minutephp\/user"
         },
         {
